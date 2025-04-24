@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>planet-informatic développeur web et créateur de site internet</title>
+    <link>http://planet-informatic.fr/</link>
+    <description>Voici le flux rss de mon site. Il vous permettras de suivre toute l'actualité de celui-ci. N'hesitez surtout pas consulter mon blog.</description>
+    <language>fr</language>
+    <copyright>Wallid Guergour</copyright>
+    <managingEditor>planet-lyon@gmail.com</managingEditor>
+    <webmaster>planet-lyon@gmail.com</webmaster>
+    <pubDate>Fri, 01 Nov 2010 12:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Jan 2011 14:53:12 GMT</lastBuildDate>
+    <category>Site internet et Blog</category>
+    <docs>http://www.rssboard.org</docs>
+    <ttl>60</ttl>
+    <image>
+      <title>planet-informatic.fr Créateur de site web</title>
+      <url>http://planet-informatic.fr/img/Social/Rss-logo.png</url>
+      <link>http://planet-informatic.fr/flux.xml</link>
+      <description>Toute l'actualités de planet-informatic.fr !</description>
+    </image>
+    <skipHours>
+      <hour>23</hour>
+    </skipHours>
+    <skipDays>
+      <day>Monday</day>
+    </skipDays>
+
+    <item>
+     <title>Mise en place du flux rss.</title>
+     <link>http://planet-informatic.fr/</link>
+     <guid isPermaLink="false">03032017</guid>
+     <description>
+      Une modification a été apporté sur mon site. Venez vite le consulter!
+     </description>
+     <pubDate>Fri, 03 March 2017 03:18:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

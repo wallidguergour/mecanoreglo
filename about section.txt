@@ -1,0 +1,88 @@
+<!--about section-->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 text-center">
+                    <h1 class="serif">Ce qu'est <span class="elegantBrown">Saeba</span>?</h1>
+                    <h4 class="serifItalic">
+                        Saeba est une structure � �chelle humaine. Une simple soci�t� sp�cialis�e dans la communication graphique, l'impression de supports commerciaux, la distribution et le developpement de site web.
+                    </h4>
+
+                </br>
+
+                    <h3 class="serif"><span class="elegantBrown">L'int�r�t</span> de travailler avec un <span class="elegantBrown">graphiste ind�pendant</span>?</h3>
+
+
+                    <div class="clearfix"></div>
+                    <div class="xSep">
+                        <img class="img-center img-responsive" src="img/xsepWhite.png" alt="X Separator">
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-12 aboutItem">
+                    <div class="diamondWrapper">
+                        <div class="diamondBorder">
+                            <img class="img-center img-responsive" src="img/equerre.png" alt="X Separator">
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <h4 class="oswald">Retina Ready</h4>
+                        <p>
+                            Greatly cottage thought fortune no mention he. Of mr certainty arranging am smallness by conveying. Him plate you allow built grave. Sigh sang nay sex high yet door game. She dissimilar was favourable unreserved nay expression contrasted saw.
+                        </p>
+
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 col-xs-12 aboutItem">
+                    <div class="diamondWrapper">
+                        <div class="diamondBorder">
+                            <img class="img-responsive" src="img/Horse.png" alt="Diamond Shape">
+                        </div>
+
+                    </div>
+                    <div class="text-center">
+                        <h4 class="oswald">Affordable</h4>
+                        <p>
+                            Of friendship on inhabiting diminution discovered as. Did friendly eat breeding building few nor. Object he barton no effect played valley afford. Period so to oppose we little seeing or branch. Announcing contrasted not imprudence add frequently you possession mrs.
+                        </p>
+                    </div>
+                </div>
+
+
+                <div class="col-md-3 col-sm-6 col-xs-12 aboutItem">
+                    <div class="diamondWrapper">
+                        <div class="diamondBorder">
+                            <img class="img-responsive" src="img/pyramid.png" alt="Diamond Shape">
+                        </div>
+
+                    </div>
+                    <div class="text-center">
+                        <h4 class="oswald">Well Coded</h4>
+                        <p>
+                            Village did removed enjoyed explain nor ham saw calling talking. Securing as informed declared or margaret. Joy horrible moreover man feelings own shy. Request norland neither mistake for yet. Between the for morning assured country believe.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 col-xs-12 aboutItem">
+                    <div class="diamondWrapper">
+                        <div class="diamondBorder">
+                            <img class="img-responsive" src="img/traveler.png" alt="Diamond Shape">
+                        </div>
+
+                    </div>
+                    <div class="text-center">
+                        <h4 class="oswald">Responsive Design</h4>
+                        <p>Tarantula raffishly heron overdrew adequate mellifluous meadowlark evil raving and drolly so faithfully primly went far insect completely audibly darn.</p>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="clearfix"></div>
+        </div>
+    </section>
+    <!--end about section-->

@@ -1,0 +1,9 @@
+User-agent: bingbot
+Disallow: /*.png$
+User-agent: msnbot
+Disallow: /*.png$
+User-agent: *
+Disallow: /
+User-agent: Googlebot
+Disallow: /diapo/
+Disallow: /Site web/

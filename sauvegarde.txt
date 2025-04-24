@@ -1,0 +1,58 @@
+  <!--text client separator-->
+    <section id="clients" class="white" data-stellar-background-ratio="0.5">
+
+        <div class="parallax-overlay"></div>
+
+        <div class="container">
+
+            <center><h3 class="serif"><span class="elegantBrown">Si vous voulez bien me suivre</span></h3></center>
+        </br>
+        </br>
+
+
+
+                            <div class="clientLogo col-md-2 col-sm-2 col-xs-4">
+                                <a href="https://twitter.com/SaebaNash" ><img src="img/clients/Facebook.png"  height="55" width="55" onmouseover="this.src='img/clients/Facebook2.png '" height="55" width="55" onmouseout="this.src=' img/clients/Facebook.png '" height="55" width="55" /></a>
+                            </div>
+
+                            <div class="clientLogo col-md-2 col-sm-2 col-xs-4">
+                                <a href="https://twitter.com/SaebaNash" ><img src="img/clients/Twitter.png"  height="55" width="55" onmouseover="this.src='img/clients/Twitter2.png '" height="55" width="55" onmouseout="this.src=' img/clients/Twitter.png '" height="55" width="55" /></a>
+                            </div>
+
+                            <div class="clientLogo col-md-2 col-sm-2 col-xs-4">
+                                <a href="https://twitter.com/SaebaNash" ><img src="img/clients/Linkedin.png"  height="55" width="55" onmouseover="this.src='img/clients/Linkedin2.png '" height="55" width="55" onmouseout="this.src=' img/clients/Linkedin.png '" height="55" width="55" /></a>
+                            </div>
+
+                            <div class="clientLogo col-md-2 col-sm-2 col-xs-4">
+                                <a href="https://twitter.com/SaebaNash" ><img src="img/clients/Viadeo.png"  height="55" width="55" onmouseover="this.src='img/clients/Viadeo2.png '" height="55" width="55" onmouseout="this.src=' img/clients/Viadeo.png '" height="55" width="55" /></a>
+                            </div>
+
+                            <div class="clientLogo col-md-2 col-sm-2 col-xs-4">
+                                <a href="https://twitter.com/SaebaNash" ><img src="img/clients/Behance.png"  height="55" width="55" onmouseover="this.src='img/clients/Behance2.png '" height="55" width="55" onmouseout="this.src=' img/clients/Behance.png '" height="55" width="55" /></a>
+                            </div>
+
+                            <div class="clientLogo col-md-2 col-sm-2 col-xs-4">
+                                <a href="https://twitter.com/SaebaNash" ><img src="img/clients/Twitter.png"  height="55" width="55" onmouseover="this.src='img/clients/Twitter2.png '" height="55" width="55" onmouseout="this.src=' img/clients/Twitter.png '" height="55" width="55" /></a>
+                            </div>
+
+
+        </div>
+    </section>
+    <!--end text client separator-->
+
+<div class="col-md-4 col-sm-6 col-xs-12 text-center portfolioItemWrapper ajax-overlay">
+                <div class="portfolioItem">
+
+                    <div class="effect imageWrapper">
+                        <img src="img/gallery/3.jpg" alt="third">
+                        <div class="caption">
+                            <h4 class="oswald">Quaithe Ride Contest!</h4>
+                            <p class="serifItalic">Case studies</p>
+                            <a id="trigger-overlay" class="overlay-ajax" href="single-project.html#caption" data-toggle="modal" > <!-- add data-toggle="modal" -->
+                                <span class="moreText">+</span>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
