@@ -13,11 +13,11 @@ body {
 }
 
 #icônes-ampoule {
-    background: url('img/icon-Encelade/Ampoule-Encelade-Lyon-Graphiste-et-Webmaster-Blanc.png') 0 0 no-repeat;
+    background: url('img/icon-Mecano-Reglo/Ampoule-Mecano-Reglo-Lyon-Graphiste-et-Webmaster-Blanc.png') 0 0 no-repeat;
 }
 
 #icônes-ampoule:hover {
-    background: url('img/icon-Encelade/Ampoule-Encelade-Lyon-Graphiste-et-Webmaster.png') 0 0 no-repeat;
+    background: url('img/icon-Mecano-Reglo/Ampoule-Mecano-Reglo-Lyon-Graphiste-et-Webmaster.png') 0 0 no-repeat;
 }
 
 a{
@@ -273,16 +273,16 @@ color: white;
 .Quote{
       font-size: 10px
 }
-.Encelade {
+.Mecano-Reglo {
       font-family: 'Arima Madurai', cursive;
 }
 
-.Enceladefeatures {
+.Mecano-Reglofeatures {
       font-family: 'Arima Madurai', cursive;
       font-size: 30px;
 }
 
-.EnceladePortfolio {
+.Mecano-RegloPortfolio {
       font-family: 'Arima Madurai', cursive;
       font-size: 20px;
 }
@@ -293,7 +293,7 @@ color: white;
        color:#ffffff;
 }
 
-.AboutEncelade {
+.AboutMecano-Reglo {
        font-family: 'Arima Madurai', cursive;
        color:#ffffff;
 }
@@ -347,7 +347,7 @@ color: white;
     font-size: 40px;
 }
 
-.Encelade2 {
+.Mecano-Reglo2 {
     font-family: 'Nexa', sans-serif;
     font-style: bold;
     color:#ffffff;
@@ -789,7 +789,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 /* A la place du blog */
 
 #Alaplacedublog{
-    background: url('img/Background/Encelade-background-18.jpg') fixed;
+    background: url('img/Background/Mecano-Reglo-background-18.jpg') fixed;
     padding:10px;
     z-index:14;
 }
@@ -828,17 +828,17 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 
 /* partie basse de la page contact */
 
-#Séparation-Encelade-contact{
+#Séparation-Mecano-Reglo-contact{
     background-color:#151515;
     padding:10px;
     z-index:10;
 }
 
-#Séparation-Encelade-contact p{
+#Séparation-Mecano-Reglo-contact p{
     color: white;
 }
 
-#Séparation-Encelade-contact .btn{
+#Séparation-Mecano-Reglo-contact .btn{
     margin-top:10px;
     margin-left:10px;
     margin-right:10px;
@@ -846,17 +846,17 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 
 /* Séparation tarifs 1 */
 
-#Séparation-Encelade-tarifs-1{
+#Séparation-Mecano-Reglo-tarifs-1{
     background-color:#000000;
     padding:10px;
     z-index:10;
 }
 
-#Séparation-Encelade-tarifs-1 p{
+#Séparation-Mecano-Reglo-tarifs-1 p{
     color: white;
 }
 
-#Séparation-Encelade-tarifs-1 .btn{
+#Séparation-Mecano-Reglo-tarifs-1 .btn{
     margin-top:10px;
     margin-left:10px;
     margin-right:10px;
@@ -864,22 +864,22 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 
 /* Séparation tarif 2 */
 
-#Séparation-Encelade-tarifs-2{
+#Séparation-Mecano-Reglo-tarifs-2{
     background-color:#000000;
     padding:10px;
     z-index:10;
 }
 
-#Séparation-Encelade-tarifs-2 p{
+#Séparation-Mecano-Reglo-tarifs-2 p{
     color: white;
 }
 
-#Séparation-Encelade-tarifs-2 h2{
+#Séparation-Mecano-Reglo-tarifs-2 h2{
     color: white;
     font-size: 25px;
 }
 
-#Séparation-Encelade-tarifs-2 .btn{
+#Séparation-Mecano-Reglo-tarifs-2 .btn{
     margin-top:10px;
     margin-left:10px;
     margin-right:10px;
@@ -887,22 +887,22 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 
 /* Séparation tarifs 3 */
 
-#Séparation-Encelade-tarifs-3{
+#Séparation-Mecano-Reglo-tarifs-3{
     background-color:#000000;
     padding:10px;
     z-index:10;
 }
 
-#Séparation-Encelade-tarifs-3 p{
+#Séparation-Mecano-Reglo-tarifs-3 p{
     color: white;
 }
 
-#Séparation-Encelade-tarifs-3 h2{
+#Séparation-Mecano-Reglo-tarifs-3 h2{
    color: white;
    font-size: 25px;
 }
 
-#Séparation-Encelade-tarifs-3 .btn{
+#Séparation-Mecano-Reglo-tarifs-3 .btn{
     margin-top:10px;
     margin-left:10px;
     margin-right:10px;
@@ -912,7 +912,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 
 #about{
     padding: 5px 0 5px;
-        background: url('img/Background/Encelade-background-27.png');
+        background: url('img/Background/Mecano-Reglo-background-27.png');
         background-repeat: no-repeat;
         background-position: center center;
         background-size:cover;
@@ -940,7 +940,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 /* what we do section2 */
 
 #what-we-do2{
-    background: url('img/Background/Encelade-background-14.jpg');
+    background: url('img/Background/Mecano-Reglo-background-14.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size:cover;
@@ -980,7 +980,7 @@ div.active a{
 /* what we do section */
 
 #what-we-do{
-    background: url('img/Background/Encelade-background-20.jpg');
+    background: url('img/Background/Mecano-Reglo-background-20.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size:cover;
@@ -1021,7 +1021,7 @@ div.active a{
 
 #fun-facts{
         padding: 5px 0 5px;
-        background: url('img/Background/Encelade-background-28.png');
+        background: url('img/Background/Mecano-Reglo-background-28.png');
         background-repeat: no-repeat;
         background-position: center center;
         background-size:cover;
@@ -1032,7 +1032,7 @@ div.active a{
 /*portfolio*/
 #portfolio{
         padding: 5px 0 5px;
-        background: url('img/Background/Encelade-background-19.jpg');
+        background: url('img/Background/Mecano-Reglo-background-19.jpg');
         background-repeat: no-repeat;
         background-position: center center;
         background-size:cover;
@@ -1322,7 +1322,7 @@ div.active a{
 /*/features*/
 
 #features{
-    background: url('img/Background/Encelade-background-3.jpg') no-repeat center center fixed;
+    background: url('img/Background/Mecano-Reglo-background-3.jpg') no-repeat center center fixed;
     /*-webkit-background-size: cover;*/
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1356,7 +1356,7 @@ div.active a{
 
 #clients-reviews{
     padding:10px;
-    background: url("img/Background/Encelade-background-12.jpg") no-repeat center center fixed;
+    background: url("img/Background/Mecano-Reglo-background-12.jpg") no-repeat center center fixed;
     /*-webkit-background-size: cover;*/
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1384,7 +1384,7 @@ div.active a{
 
 
 #pricing-tables2{
-   background: #000 url('img/Background/Encelade-background-2.jpg') fixed;
+   background: #000 url('img/Background/Mecano-Reglo-background-2.jpg') fixed;
 }
 
 #pricing-tables2 .subscriptionPrice h4, .subscriptionPrice h3{
@@ -1418,7 +1418,7 @@ div.active a{
 
 
 #pricing-tables3{
-    background: #000 url('img/Background/Encelade-background-6.jpg') fixed;
+    background: #000 url('img/Background/Mecano-Reglo-background-6.jpg') fixed;
  }
  
  #pricing-tables3 .subscriptionPrice h4, .subscriptionPrice h3{
@@ -1452,7 +1452,7 @@ div.active a{
 
 #why-choose-us{
           padding: 5px 0 5px;
-          background: url('img/Background/Encelade-background-29.png');
+          background: url('img/Background/Mecano-Reglo-background-29.png');
           background-repeat: no-repeat;
           background-position: center center;
           background-size:cover;
@@ -1595,7 +1595,7 @@ div.active a{
 /*information*/
 #our-information{
     padding:20px;
-    background: url('img/Background/Encelade-background-6.jpg') no-repeat center center fixed;
+    background: url('img/Background/Mecano-Reglo-background-6.jpg') no-repeat center center fixed;
     /*-webkit-background-size: cover;*/
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1672,7 +1672,7 @@ div.active a{
 /*informations_et_comptetences*/
 #informations_et_comptetences{
     padding:20px;
-    background: url('img/Background/Encelade-background-8.jpg') no-repeat center center fixed;
+    background: url('img/Background/Mecano-Reglo-background-8.jpg') no-repeat center center fixed;
     /*-webkit-background-size: cover;*/
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1735,7 +1735,7 @@ div.active a{
 /* Page du portfolio */
 #PagesTest{
     height:300px;
-    background: url('img/Background/Encelade-background-30.png');
+    background: url('img/Background/Mecano-Reglo-background-30.png');
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1783,7 +1783,7 @@ div.active a{
 /* overlays */
 #singlePageIntroSkate{
     height:300px;
-    background: url('img/Background/Encelade-background-skate-3.jpg');
+    background: url('img/Background/Mecano-Reglo-background-skate-3.jpg');
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1793,7 +1793,7 @@ div.active a{
 /* sk8 */
 #singlePageSkate{
     height:300px;
-    background: url('img/Background/Encelade-background-4.jpg');
+    background: url('img/Background/Mecano-Reglo-background-4.jpg');
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1801,7 +1801,7 @@ div.active a{
 }
 
 #singlePageContentSkate{
-    background: url('img/Background/Encelade-background-skate.jpg');
+    background: url('img/Background/Mecano-Reglo-background-skate.jpg');
             background-repeat: no-repeat;
             background-position: center center;
             background-size:cover;
@@ -1911,7 +1911,7 @@ iframe{
 
 #recentBlog, #mainBlog{
        padding: 5px 0 5px;
-           background: url('img/Background/Encelade-background-30.png');
+           background: url('img/Background/Mecano-Reglo-background-30.png');
            background-repeat: no-repeat;
            background-position: center center;
            background-size:cover;
@@ -2436,4 +2436,31 @@ div[class^='highlight'] pre {
 .gc {
     color: #999;
     background-color: #EAF2F5
+}
+
+/* === Responsive pour #intro === */
+/* 🔧 Forcer un agrandissement du logo mobile */
+@media screen and (max-width: 768px) {
+    .introLogo {
+      width: 80vw !important;
+      max-width: 380px !important;
+      height: auto !important;
+      margin: 0 auto 20px auto !important;
+      display: block !important;
+    }
+  
+
+    #intro h1.serif {
+        font-size: clamp(1.5rem, 6vw, 2.2rem);
+    }
+
+
+    .introText {
+        padding: 0 1rem;
+    }
+
+    .btn.btn-default.btn-white {
+        font-size: 12px;
+        padding: 10px 18px;
+    }
 }
